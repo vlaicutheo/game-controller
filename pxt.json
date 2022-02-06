@@ -6,7 +6,8 @@
         "radio": "*",
         "microphone": "*",
         "pxt-kitronik-game-controller": "github:kitronikltd/pxt-kitronik-game-controller#V0.0.4",
-        "maqueen": "github:dfrobot/pxt-maqueen#v1.7.0"
+        "maqueen": "github:dfrobot/pxt-maqueen#v1.7.0",
+        "MaqueenPlus": "github:dfrobot/pxt-dfrobot-maqueenplus#v1.5.0"
     },
     "files": [
         "main.blocks",
